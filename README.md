@@ -1,24 +1,33 @@
-# Developed by Julian Ceballos and Juan Zambrano
+# Estructura de Datos
 ![Logo Java](https://hireline.io/blog/wp-content/uploads/2019/11/Razones-para-aprender-a-programar-con-Java-1200x900.jpg)
 
-## Project Description
-This project is a inventory manager develop in Java with NetBeans. It allows users to add new product, display all existing products, organize them and delete a product.
+## Integrantes
+Julian Ceballos Y Juan Zambrano
+## Descripción
+Es un  programa realizado en java que permite mostrar las canciones y filtralas segun parametros.
 
-## Features
-1. *Add Product* Allows the user to enter a new product with its ID, name, price and quantity.
-2. *Show Inventory* Display the current list of products with details such as ID, name, price and quantity.
-3. *Organize Inventory* Sorts products based on their ID, enabling more effective management.
-4. *Delete Product* Delete a product from the inventory.
 
-## System Requirements
-- NetBeans IDE (Latest version recommended)
-- Java Development Kit (JDK) 8 or higher
+## La aplicación permite:
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
 
-## Usage Instructions
-1. Clone or download this repository to your local machine.
-2. Open the project in NetBeans.
-3. Run the application.
-4. Use the menu to add tasks, display the list, or organize them based on priority.
+## Objetivo:
+Facilitar la manipulacion de datos en una discotienda a traves de la POO.
 
-## Contributions
-Contributions are welcome. Feel free to fork the project and submit pull requests with improvements or corrections.
+## Requisitos
+- Java JDK 
+- IDE Netbeans o Eclipse
+
+## Instalación
+1. Clona el repositorio 
+2. Abre el proyecto en tu IDE preferido.
+3. Compila el código fuente.
+4. Ejecuta el programa.
+
+## Créditos
+Este programa fue desarrollado por Juan Miguel Zambrano y Julian Andres Ceballos.
